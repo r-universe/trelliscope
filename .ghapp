@@ -1,0 +1,10 @@
+{
+  "id": 47909901,
+  "created_at": "2024-02-29T21:38:08.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["trelliscope.r-universe.dev"]
+}
